@@ -1,0 +1,17 @@
+.main {
+  margin-top: 30%;
+}
+.main a {
+  display: block;
+  width: 100%;
+  height: 4rem;
+  line-height: 4rem;
+  text-align: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 10%;
+  border-bottom: 1px solid #cccccc;
+  background: url('../images/arrRight.png') no-repeat 95% center;
+  background-size: 1rem;
+}

@@ -1,0 +1,12 @@
+.commonHeader {
+  width: 100%;
+  background: #000000;
+}
+.commonHeader a {
+  color: #ffffff;
+  height: 4rem;
+  line-height: 4rem;
+  display: inline-block;
+  width: 33.33333333%;
+  text-align: center;
+}
